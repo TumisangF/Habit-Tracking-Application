@@ -38,5 +38,5 @@ Contributions are appreciated! Follow the instructions in the CONTRIBUTING.md fi
 I would like convey my profound appreciation  to Dr. Max Pumperla for his advice, expertise, and ongoing assistance throughout the project. The design and functioning of the application has been significantly affected by his helpful feedback.
 
 
-I thank IU International  University of Applied Sciences for allowing me the chance to work on this project and for the tools and information  provided to me .
+I thank IU International University of Applied Sciences for allowing me the chance to work on this project and for the tools and information  provided to me .
 
