@@ -1,6 +1,7 @@
 # Habit-Tracking-Application
 
-Foobar is a Python library for dealing with word pluralization.
+The Python based application can track daily and weekly habits. It offers features like habit development, tracking, analytics, and provides a command-line interface for simple interaction.
+
 
 ## Installation
 
