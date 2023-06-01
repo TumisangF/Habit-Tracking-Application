@@ -5,7 +5,7 @@ The Python based application can track daily and weekly habits. It offers feat
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone the repository to a computer locally.
 
 ```bash
 pip install foobar
