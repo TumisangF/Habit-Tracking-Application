@@ -40,3 +40,6 @@ I would like convey my profound appreciation  to Dr. Max Pumperla for his ad
 
 I thank IU International University of Applied Sciences for allowing me the chance to work on this project and for the tools and information  provided to me .
 
+##License
+This project is licensed under the MIT License.
+
